@@ -179,4 +179,8 @@ From the IRS website, here is an explanation of the deductability status codes:
 -----------------------------------------------------------------------------------------------
 | SOUNK	  |    A supporting organization, unspecified type.	    |    50%                      |
 -----------------------------------------------------------------------------------------------
+
+# contributors
+
+So far this module has been developed only by Nicholas Lourie, but if other people are interested in helping to extend it to a larger framework for dealing with nonprofit data, pull requests are welcome!
 ```
