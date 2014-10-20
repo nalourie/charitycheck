@@ -10,6 +10,7 @@ setup(
     description=('a small module to verify information'
                  'about nonprofits using their EINs'),
     long_description=open('README.md').read(),
+    include_package_data=True,
     keywords="nonprofit nonprofits EIN IRS verify",
     url="https://github.com/nalourie/charitycheck",
     classifiers=[
